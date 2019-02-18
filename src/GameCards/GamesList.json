@@ -1,0 +1,44 @@
+{
+    "games": [
+        {
+            "title": "All Bark No Byte",
+            "subtitle": "Local Multiplayer",
+            "imageURL": "./static/images/noByte.png",
+            "imgText": "Game Screenshot",
+            "oneLiner": "The First Dog to Corral 5 sheep WINS!",
+            "catergoryLetter": "T",
+            "playLink": "http://users.csc.calpoly.edu/~tlmarsan/All%20Bark_No%20Byte/",
+            "summary":"You'll need to have Javascript enabled on your web browser."
+        },
+        {
+            "title": "All Bark No Byte",
+            "subtitle": "Local Multiplayer",
+            "imageURL": "./static/images/noByte.png",
+            "imgText": "Game Screenshot",
+            "oneLiner": "The First Dog to Corral 5 sheep WINS!",
+            "catergoryLetter": "T",
+            "playLink": "http://users.csc.calpoly.edu/~tlmarsan/All%20Bark_No%20Byte/",
+            "summary":"You'll need to have Javascript enabled on your web browser."
+        },
+        {
+            "title": "All Bark No Byte",
+            "subtitle": "Local Multiplayer",
+            "imageURL": "./static/images/noByte.png",
+            "imgText": "Game Screenshot",
+            "oneLiner": "The First Dog to Corral 5 sheep WINS!",
+            "catergoryLetter": "T",
+            "playLink": "http://users.csc.calpoly.edu/~tlmarsan/All%20Bark_No%20Byte/",
+            "summary":"You'll need to have Javascript enabled on your web browser."
+        },
+        {
+            "title": "All Bark No Byte",
+            "subtitle": "Local Multiplayer",
+            "imageURL": "./static/images/noByte.png",
+            "imgText": "Game Screenshot",
+            "oneLiner": "The First Dog to Corral 5 sheep WINS!",
+            "catergoryLetter": "T",
+            "playLink": "http://users.csc.calpoly.edu/~tlmarsan/All%20Bark_No%20Byte/",
+            "summary":"You'll need to have Javascript enabled on your web browser."
+        }
+    ]
+}
